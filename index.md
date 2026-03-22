@@ -1,3 +1,7 @@
 ---
-title: Welcome to my blog!
+title: Hello!
 ---
+
+# Hello
+
+This is my GitHub Pages site.
